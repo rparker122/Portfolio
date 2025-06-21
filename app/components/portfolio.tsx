@@ -17,7 +17,7 @@ export default function Portfolio() {
       category: "team",
       image:"https://raw.githubusercontent.com/rparker122/images/main/demo%20night%20chat%20FINAL600x400%20(1).jpg",
       year: "2024",
-      url: "https://messaging-app-theta-seven.vercel.app/",
+      url: "https://messaging-app-five-psi.vercel.app/",
     },
    
     {
@@ -26,7 +26,7 @@ export default function Portfolio() {
       category: "team",
       image: "https://raw.githubusercontent.com/rparker122/images/main/demo%20arcade.png",
       year: "2025",
-      url: "https://game-site-tau.vercel.app/",
+      url: "https://game-site-tan.vercel.app/",
     },
     {
       id: 5,
@@ -34,7 +34,7 @@ export default function Portfolio() {
       category: "personal",
       image: "https://raw.githubusercontent.com/rparker122/images/main/mail.google.jpg",
       year: "2025",
-      url: "https://calender-vert.vercel.app/",
+      url: "https://calendar-five-lac.vercel.app/",
     },
     {
       id: 6,
@@ -42,7 +42,7 @@ export default function Portfolio() {
       category: "favorites",
       image: "https://raw.githubusercontent.com/rparker122/images/main/demo%20quote%20generator.jpg",
       year: "2025",
-      url: "https://quote-generator-or.vercel.app/",
+      url: 'https://quote-generator-delta-two.vercel.app/',
     },
   ]
 
