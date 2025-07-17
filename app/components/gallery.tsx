@@ -13,25 +13,25 @@ export default function Gallery() {
       src: "https://raw.githubusercontent.com/rparker122/images/main/demo%20fitness%20tracker.jpg",
       alt: "Art piece 1",
       title: "Fitness App",
-      link: "https://fitness-app-one-eta.vercel.app/",
+      link: "https://rparker-fitnessapp.vercel.app/",
     },
     {
       src: "https://raw.githubusercontent.com/rparker122/images/main/demo%20weather%20app%20240x350.jpg", 
       alt: "Art piece 2",
       title: "Weather App",
-      link: "https://weather-app-one-smoky-59.vercel.app/",
+      link: "https://rparker-weatherapp.vercel.app/",
     },
     {
       src: "https://raw.githubusercontent.com/rparker122/images/main/demo%20calculator%20240x350.jpg",
       alt: "Art piece 3",
       title: "Calculator",
-      link: "https://calculator-eta-five-74.vercel.app/",
+      link: "https://rparker-calcapp.vercel.app/",
     },
     {
       src: "https://raw.githubusercontent.com/rparker122/images/main/demo%20piano.jpg",
       alt: "Art piece 4",
       title: "Piano",
-      link: "https://piano-app-theta.vercel.app/",
+      link: "https://rparker-pianoapp.vercel.app/",
     },
   ]
 
