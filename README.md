@@ -69,10 +69,11 @@ Hi! I'm a web developer passionate about building clean, responsive, and user-fr
 Feel free to reach out via:
 
 * **Email:** \[rparker.ccs@gmail.com]
-* **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+* **GitHub:** (https://github.com/rparker122)
 
 ```
 
 ---
+
 
 
