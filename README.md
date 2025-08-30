@@ -71,8 +71,4 @@ Feel free to reach out via:
 * **Email:** \[rparker.ccs@gmail.com]
 * **GitHub:** (https://github.com/rparker122)
 
-```
-
-
-
 
